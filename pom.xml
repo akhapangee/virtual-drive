@@ -74,7 +74,7 @@
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-chrome-driver</artifactId>
-            <version></version>
+            <version>3.141.59</version>
             <scope>test</scope>
         </dependency>
         <dependency>
